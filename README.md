@@ -1,0 +1,2 @@
+# LU
+Kvalifikācijas darbs
